@@ -1,0 +1,20 @@
+PODS:
+  - TKMInfoManager (0.1.0):
+    - TKMInfoManager/Core (= 0.1.0)
+  - TKMInfoManager/Core (0.1.0):
+    - TKMInfoManager/SourceMode
+  - TKMInfoManager/SourceMode (0.1.0)
+
+DEPENDENCIES:
+  - TKMInfoManager (from `../`)
+
+EXTERNAL SOURCES:
+  TKMInfoManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TKMInfoManager: ab3a1d2db316e71e807b5ea9a2cb108e7eb14149
+
+PODFILE CHECKSUM: 3c4d9b62005fad773078aae4bfe9fad4e3cd33c7
+
+COCOAPODS: 1.10.1
