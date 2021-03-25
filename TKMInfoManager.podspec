@@ -74,7 +74,7 @@ Pod::Spec.new do |s|
 
     # core.public_header_files = 'Pod/Classes/**/*.h'
     # core.frameworks = 'UIKit', 'MapKit'
-    # core.dependency 'AFNetworking', '~> 2.3'
+    core.dependency 'TKMRequest'
   end
   s.default_subspec = 'Core'
 end

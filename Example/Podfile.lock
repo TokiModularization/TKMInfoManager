@@ -3,18 +3,29 @@ PODS:
     - TKMInfoManager/Core (= 0.1.0)
   - TKMInfoManager/Core (0.1.0):
     - TKMInfoManager/SourceMode
+    - TKMRequest
   - TKMInfoManager/SourceMode (0.1.0)
+  - TKMRequest (0.1.1):
+    - TKMRequest/Core (= 0.1.1)
+  - TKMRequest/Core (0.1.1):
+    - TKMRequest/SourceMode
+  - TKMRequest/SourceMode (0.1.1)
 
 DEPENDENCIES:
   - TKMInfoManager (from `../`)
+
+SPEC REPOS:
+  https://github.com/TokiPods/specs.git:
+    - TKMRequest
 
 EXTERNAL SOURCES:
   TKMInfoManager:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TKMInfoManager: ab3a1d2db316e71e807b5ea9a2cb108e7eb14149
+  TKMInfoManager: 35f5ae7316ac841c348a8d3b63cdc4f4ecc47e3f
+  TKMRequest: 3a4f1e31de13cbbe79af9fc26a403794c74a4d37
 
-PODFILE CHECKSUM: 3c4d9b62005fad773078aae4bfe9fad4e3cd33c7
+PODFILE CHECKSUM: 386f34a4dc358a29eba15cc0b79376013bf0d82e
 
 COCOAPODS: 1.10.1
