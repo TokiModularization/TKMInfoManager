@@ -1,0 +1,11 @@
+platform :ios, '9.0'
+
+target 'TKMInfoManager_Example' do
+  pod 'TKMInfoManager', :path => '../'
+
+  target 'TKMInfoManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
