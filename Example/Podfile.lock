@@ -1,10 +1,10 @@
 PODS:
-  - TKMInfoManager (0.1.0):
-    - TKMInfoManager/Core (= 0.1.0)
-  - TKMInfoManager/Core (0.1.0):
+  - TKMInfoManager (0.1.1):
+    - TKMInfoManager/Core (= 0.1.1)
+  - TKMInfoManager/Core (0.1.1):
     - TKMInfoManager/SourceMode
     - TKMRequest
-  - TKMInfoManager/SourceMode (0.1.0)
+  - TKMInfoManager/SourceMode (0.1.1)
   - TKMRequest (0.1.1):
     - TKMRequest/Core (= 0.1.1)
   - TKMRequest/Core (0.1.1):
@@ -23,7 +23,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TKMInfoManager: 35f5ae7316ac841c348a8d3b63cdc4f4ecc47e3f
+  TKMInfoManager: 5118c1d3ea551bcf1f8abda7acdb126be9335042
   TKMRequest: 3a4f1e31de13cbbe79af9fc26a403794c74a4d37
 
 PODFILE CHECKSUM: 386f34a4dc358a29eba15cc0b79376013bf0d82e
