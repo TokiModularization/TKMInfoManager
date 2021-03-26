@@ -10,6 +10,7 @@
 #import <TKMInfoManager/TKMDeviceInfoManager.h>
 #import <TKMInfoManager/TKMEnvironmentInfoManager.h>
 #import <TKMInfoManager/TKMAccountInfoManager.h>
+#import <TKMInfoManager/TKMRechargeManager.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

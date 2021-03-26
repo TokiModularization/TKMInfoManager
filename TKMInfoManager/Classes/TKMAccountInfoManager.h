@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface TKMAccountInfoManager : NSObject
 
 @property (nonatomic, strong) NSString *token;
+@property (nonatomic, assign) NSInteger money;
 
 + (instancetype)shared;
 
